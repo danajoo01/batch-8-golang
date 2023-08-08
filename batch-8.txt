@@ -1,1 +1,2 @@
 ini dari folder remote
+push master
